@@ -272,7 +272,7 @@ export const achievements = [
   {
     org: "NPTEL",
     title: "Programming in Java",
-    link: "https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-apr26/final/regular/noc26-cs36/NPTEL26CS36S75510022704661917.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=archive-run%40nptel-exam.iam.gserviceaccount.com%2F20260804%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260804T215341Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=37b92176d519e52cdbf48eb4903ee79c3ef1c8d03a815fd5430a39f0ce0a680599cd5c65bfca570bc9d01c0c76b735996b82a5fc0fee0d583448c7316763f48ad2262be1ed65d928199669e49d02ceae3ab56a94aecd55289400d362ddbbdedd9d8d556aee93384ffc85e6261f9760b1c1b6a036377511416210914bef635e61b176c638a728366b6976744d19d6f760b9b24864b69bd12ae1602cfc19d7fc96932ff12092c59e89abee1835001e3c19a76e8746178ce038a1cd34abd56c8919d1c15d9f0da85c1ed8f06e75c7441708ecf967dd7889e2f0b136a5ff6b6e63b50e466e847e2ae58c9ef738042c6ae8e0166a3ce372a95251d88785b3df737b10",
+    link: "https://drive.google.com/file/d/1PvfWSUC1BIakm60A4S9KPnxTvqvsF6lb/view?usp=drive_link",
   },
   {
     org: "HackerRank",
@@ -282,7 +282,7 @@ export const achievements = [
   {
     org: "Coursera",
     title: "Python for AI Development",
-    link: "",
+    link: "https://drive.google.com/file/d/1wBWGhOfvtjeBPrEBr7IbAjZFsD3gNqLU/view?usp=sharing",
   },
 ];
 
