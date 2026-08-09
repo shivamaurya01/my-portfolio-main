@@ -28,7 +28,7 @@ export const profile = {
   resume: "/resume.pdf",
 
   // Replace with your actual photo later
-  photo: "https://i.postimg.cc/W32QYQWD/my-phtoo.jpg",
+  photo: "/photo.jpeg",
 };
 
 export const about = {

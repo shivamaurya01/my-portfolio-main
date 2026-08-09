@@ -1,8 +1,8 @@
 import { i as __toESM } from "../_runtime.mjs";
 import { a as require_jsx_runtime, n as DefaultChatTransport, o as require_react, t as useChat } from "../_libs/@ai-sdk/react+[...].mjs";
-import { a as navLinks, c as skillGroups, i as education, n as about, o as profile, r as achievements, s as projects } from "./router-D5gkKUgm.mjs";
+import { a as navLinks, c as skillGroups, i as education, n as about, o as profile, r as achievements, s as projects } from "./router-D-kLZPZ8.mjs";
 import { A as Code, C as FolderGit2, D as Database, E as Download, F as Atom, I as ArrowRight, M as Braces, N as Bot, O as Cpu, P as Award, S as Gamepad2, T as ExternalLink, _ as Linkedin, a as Server, b as Github, c as Network, d as MessagesSquare, f as Menu, g as LoaderCircle, h as Mail, i as Terminal, j as CodeXml, k as Coffee, l as Music, m as MapPin, n as Wrench, o as Send, p as Map, r as User, s as Palette, t as X, u as MonitorSmartphone, v as GraduationCap, w as FileText, x as GitBranch, y as Globe } from "../_libs/lucide-react.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-UxTwl0-l.js
+//#region node_modules/.nitro/vite/services/ssr/assets/routes-X3kiOON3.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function Navbar() {

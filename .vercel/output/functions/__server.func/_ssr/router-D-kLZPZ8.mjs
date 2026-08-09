@@ -5,7 +5,7 @@ import { t as QueryClient } from "../_libs/tanstack__query-core.mjs";
 import { t as QueryClientProvider } from "../_libs/tanstack__react-query.mjs";
 import { t as google } from "../_libs/ai-sdk__google.mjs";
 import { t as Resend } from "../_libs/resend+standardwebhooks.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/router-D5gkKUgm.js
+//#region node_modules/.nitro/vite/services/ssr/assets/router-D-kLZPZ8.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var __defProp = Object.defineProperty;
@@ -179,7 +179,7 @@ function RootComponent() {
 		children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Outlet, {})
 	});
 }
-var $$splitComponentImporter = () => import("./routes-UxTwl0-l.mjs");
+var $$splitComponentImporter = () => import("./routes-X3kiOON3.mjs");
 var title = "Shiva Maurya | Software Developer Portfolio";
 var description = "Portfolio of Shiva Maurya, a Computer Science student and aspiring Software Developer specializing in Java, JavaScript, React.js, Node.js, Express.js, MongoDB, and Data Structures & Algorithms.";
 var Route$2 = createFileRoute("/")({
@@ -249,7 +249,7 @@ var profile = {
 	leetcode: "https://leetcode.com/u/shivva_maurya01/",
 	codechef: "https://www.codechef.com/users/shiva_maurya",
 	resume: "/resume.pdf",
-	photo: "https://i.postimg.cc/W32QYQWD/my-phtoo.jpg"
+	photo: "/photo.jpeg"
 };
 var about = {
 	paragraphs: ["I am a 4th-year B.Tech Computer Science and Engineering student at Raj Kumar Goel Institute of Technology, Ghaziabad, passionate about software  and full-stack development. I enjoy building practical and user-focused applications using Java, JavaScript, React.js, Node.js, Express.js, and MongoDB.", "I have built projects like TalkSync and Wanderlust while continuously improving my DSA and development skills. I am currently preparing for software development opportunities and looking to grow as a developer."],
@@ -439,7 +439,7 @@ var achievements = [
 	{
 		org: "NPTEL",
 		title: "Programming in Java",
-		link: "https://storage.googleapis.com/2026-mar-halltickets/certificate-generation-apr26/final/regular/noc26-cs36/NPTEL26CS36S75510022704661917.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=archive-run%40nptel-exam.iam.gserviceaccount.com%2F20260804%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260804T215341Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=37b92176d519e52cdbf48eb4903ee79c3ef1c8d03a815fd5430a39f0ce0a680599cd5c65bfca570bc9d01c0c76b735996b82a5fc0fee0d583448c7316763f48ad2262be1ed65d928199669e49d02ceae3ab56a94aecd55289400d362ddbbdedd9d8d556aee93384ffc85e6261f9760b1c1b6a036377511416210914bef635e61b176c638a728366b6976744d19d6f760b9b24864b69bd12ae1602cfc19d7fc96932ff12092c59e89abee1835001e3c19a76e8746178ce038a1cd34abd56c8919d1c15d9f0da85c1ed8f06e75c7441708ecf967dd7889e2f0b136a5ff6b6e63b50e466e847e2ae58c9ef738042c6ae8e0166a3ce372a95251d88785b3df737b10"
+		link: "https://cdn.phototourl.com/free/2026-08-09-1f2fa3c1-bf81-45de-bfa9-e98384031d20.png"
 	},
 	{
 		org: "HackerRank",
@@ -449,7 +449,7 @@ var achievements = [
 	{
 		org: "Coursera",
 		title: "Python for AI Development",
-		link: ""
+		link: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KLEOLEN3YE1L/CERTIFICATE_LANDING_PAGE~KLEOLEN3YE1L.jpeg"
 	}
 ];
 var navLinks = [
