@@ -272,7 +272,7 @@ export const achievements = [
   {
     org: "NPTEL",
     title: "Programming in Java",
-    link: "https://drive.google.com/file/d/1PvfWSUC1BIakm60A4S9KPnxTvqvsF6lb/view?usp=drive_link",
+    link: "https://cdn.phototourl.com/free/2026-08-09-1f2fa3c1-bf81-45de-bfa9-e98384031d20.png",
   },
   {
     org: "HackerRank",
@@ -282,7 +282,7 @@ export const achievements = [
   {
     org: "Coursera",
     title: "Python for AI Development",
-    link: "https://drive.google.com/file/d/1wBWGhOfvtjeBPrEBr7IbAjZFsD3gNqLU/view?usp=sharing",
+    link: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KLEOLEN3YE1L/CERTIFICATE_LANDING_PAGE~KLEOLEN3YE1L.jpeg",
   },
 ];
 
