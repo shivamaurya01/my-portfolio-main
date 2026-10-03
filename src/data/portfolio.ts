@@ -33,9 +33,9 @@ export const profile = {
 
 export const about = {
 paragraphs: [
-  "I am a 4th-year B.Tech Computer Science and Engineering student at Raj Kumar Goel Institute of Technology, Ghaziabad, passionate about software  and full-stack development. I enjoy building practical and user-focused applications using Java, JavaScript, React.js, Node.js, Express.js, and MongoDB.",
-
-  "I have built projects like TalkSync and Wanderlust while continuously improving my DSA and development skills. I am currently preparing for software development opportunities and looking to grow as a developer.",
+  "I am a 4th-year B.Tech Computer Science and Engineering student at Raj Kumar Goel Institute of Technology, Ghaziabad, passionate about software and full-stack development. I enjoy building practical and user-focused applications using Java, JavaScript, React.js, Node.js, Express.js, and MongoDB.",
+  
+  " I have built projects like TalkSync, Wanderlust, and AI Web Forge, an AI-powered website builder that generates, previews, edits, and deploys websites using natural-language prompts. Alongside development, I continuously improve my DSA and problem-solving skills. I am currently preparing for software development opportunities and looking to grow as a developer by working on real-world projects and challenges ."
 ],
 
   facts: [
@@ -128,6 +128,7 @@ export const skillGroups = [
     items: [
       "Data Structures & Algorithms",
       "Object-Oriented Programming",
+      "SDLC",
       "DBMS",
       "Operating Systems",
       "Computer Networks",
@@ -148,6 +149,46 @@ accent: string;
 
 
 export const projects: Project[] = [
+  {
+  name: "AI Web Forge",
+
+  description:
+    "An AI-powered website builder that generates, previews, edits, and deploys websites from natural-language prompts.",
+
+  features: [
+    "AI-powered website generation",
+    "Natural-language website prompts",
+    "User authentication",
+    "Google authentication",
+    "AI chat-based website editing",
+    "Live website preview",
+    "Responsive preview modes",
+    "Code editor",
+    "Website deployment",
+    "Credit-based usage system",
+    "Stripe payment integration",
+    "Dashboard for managing websites",
+  ],
+
+  tech: [
+    "React.js",
+    "Tailwind CSS",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose",
+    "OpenRouter API",
+    "Stripe",
+    "Firebase",
+  ],
+
+  github:
+    "https://github.com/shivamaurya01/AI-Web-Forge",
+
+  demo: "https://ai-web-forge-1.onrender.com/",
+
+  accent: "ai",
+},
   {
     name: "TalkSync",
 
