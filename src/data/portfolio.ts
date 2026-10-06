@@ -316,11 +316,6 @@ export const achievements = [
     link: "https://cdn.phototourl.com/free/2026-08-09-1f2fa3c1-bf81-45de-bfa9-e98384031d20.png",
   },
   {
-    org: "HackerRank",
-    title: "CSS Certification",
-    link: "https://www.hackerrank.com/certificates/4962c6922a3c",
-  },
-  {
     org: "Coursera",
     title: "Python for AI Development",
     link: "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KLEOLEN3YE1L/CERTIFICATE_LANDING_PAGE~KLEOLEN3YE1L.jpeg",
